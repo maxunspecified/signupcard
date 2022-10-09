@@ -1,5 +1,5 @@
 # Simple Sign-Up Card
-Simple Sign-Up Card made with HTML & CSS ------ maxunspecified.github.io/signupcard/
+Simple Sign-Up Card made with HTML & CSS ------  https://maxunspecified.github.io/signupcard/
 
 Assets included...
 
